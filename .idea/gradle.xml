@@ -4,15 +4,18 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="Embedded JDK" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/richeditor" />
+            <option value="$PROJECT_DIR$/richeditor-compose" />
             <option value="$PROJECT_DIR$/sample" />
             <option value="$PROJECT_DIR$/sample/android" />
             <option value="$PROJECT_DIR$/sample/common" />
             <option value="$PROJECT_DIR$/sample/desktop" />
+            <option value="$PROJECT_DIR$/sample/web" />
           </set>
         </option>
       </GradleProjectSettings>
